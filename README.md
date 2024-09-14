@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 This is Samuel Shrestha.
 
 <a href="https://youtu.be/U6lExgQ4PrQ?si=9FmvN2eqStp3S-J6"> If you like momo
-</a>
+</a><br>
 🔭 I currently am a student of BScIT.<br>
 🌱 I’m currently learning how to make repository.<br>
 🎶 I like listening to rock music.<br>
