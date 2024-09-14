@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...-->
 This is Samuel Shrestha.
 
--🔭 I’m currently working on College as a student.
+- 🔭 I’m currently working on College as a student.
 - 🌱 I’m currently learning how to make repository.
 - 🤔 I’m looking for help with the teacher
 - 🎶 I like listening to music.
