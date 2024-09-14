@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 <br>
 This is Samuel Shrestha. A student of PGS.<br>
 
-##MORE <br>
+## MORE <br>
 🔭 I currently am a student of BScIT.<br>
 🌱 I’m currently learning how to make repository.<br>
 🎶 I like listening to rock music.<br>
+
+## Contact<br>
+📧Email:samuelstha2060@gmail.com
 
 
