@@ -8,8 +8,11 @@ Here are some ideas to get you started:
 
 <a href="https://youtu.be/U6lExgQ4PrQ?si=9FmvN2eqStp3S-J6"> If you like momo
 </a><br><br>
-##About me<br>
+## About me
+<br>
 This is Samuel Shrestha. A student of PGS.<br>
+
+##MORE <br>
 🔭 I currently am a student of BScIT.<br>
 🌱 I’m currently learning how to make repository.<br>
 🎶 I like listening to rock music.<br>
